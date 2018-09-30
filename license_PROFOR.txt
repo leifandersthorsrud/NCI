@@ -1,0 +1,87 @@
+Name: PROFOR
+Maintainer: PROFOR Team
+Source: http://probabilityforecas.wix.com/pfconsulting
+Contact: probabilityforecastingconsult@gmail.com
+
+Files: *
+Copyright: 2014, PROFOR Team
+License: GNU -3+
+ PROFOR is free software: you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation, either version 3 of the License, or
+ (at your option) any later version.
+ .
+ PROFOR is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+ .
+ You should have received a copy of the GNU General Public License
+ along with PROFOR.  If not, see <http://www.gnu.org/licenses/>.
+
+
+Files: CommonFunctions/+figureFns/JPRINTF
+Copyright: Version 3.0, June 2011, Mark W. Brown
+License: Public domain
+
+Files: CommonFunctions/+figureFns/varycolor  
+Copyright: 8/12/2008, Daniel Helmick
+License: Public domain
+
+Files: CommonFunctions/+filterFns/bpass
+Copyright: 6/10/99, Terry Fitzgerald
+License: Public domain
+  
+Files: CommonFunctions/+filterFns/hpfilter
+Copyright: Wilmer Henao, Department of Mathematics Universidad de los Andes Colombia
+License: Public domain
+
+Files: CommonFunctions/+forecastFns/getContinuousRankedProbabilityScore
+Copyright: 2008, Max Little
+License: This software is licensed under the Attribution-Share
+Alike 2.5 Generic Creative Commons license: http://creativecommons.org/licenses/by-sa/2.5/
+
+Files: CommonFunctions/+varUtilitiesFns/latSur
+Copyright: James P. LeSage, Dept of Economics, Texas State University-San Marcos. jlesage@spatial-econometrics.com
+License: Public domain
+
+Files: CommonFunctions/+x12arima/nbX12arima
+Copyright: 2007, Norges Bank, Christie Smith, Leif Anders Thorsrud and U.S. Census Bureau, U.S. Department of Commerce.
+License: Public domain
+
+Files: CommonFunctions/distributionFns/*
+Copyright: 18-11-93, Anders Holtsberg, 1993, Michael Gordy, 1997, James P. LeSage amd Aki Vehtari
+License: Public domain
+
+Files: CommonFunctions/exportFig/*
+Copyright: 2012, Oliver Woodford
+License: Public domain
+
+Files: CommonFunctions/optimizationFns/*
+Copyright: 1996, Christopher Sims
+License: Public domain
+
+Files: CommonFunctions/timeSeriesFns/csttt, CommonFunctions/timeSeriesFns/cstttReverse, CommonFunctions/utilityFns/whoami
+Copyright: 2008, Christie Smith
+License: Public domain
+
+Files: CommonFunctions/utilityFns/jbfill
+Copyright: 2006, John A. Bockstege
+License: Public domain
+
+Files: CommonFunctions/utilityFns/lag, CommonFunctions/utilityFns/tdiff, CommonFunctions/utilityFns/trimr
+Copyright: James P. LeSage, Dept of Economics, Texas State University-San Marcos, 601 University Drive, San Marcos, TX 78666, jlesage@spatial-econometrics.com
+License: Public domain 
+
+Files: CommonFunctions/utilityFns/parfor_progress
+Copyright: Jeremy Scheff
+License: Public domain
+
+Files: CommonFunctions/utilityFns/rotateticklabel
+Copyright: 2005, Andy Bliss
+License: Public domain
+
+Files: CommonFunctions/utilityFns/vivid
+Copyright: 2011, Joseph Kirk
+License: Public domain
+

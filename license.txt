@@ -1,0 +1,54 @@
+Name: NCI
+Maintainer: Leif Anders Thorsrud
+Source: https://github.com/leifandersthorsrud/NCI
+
+Files: *
+Copyright: 2014, PROFOR Team
+License: GNU -3+
+ These replication codes are free software: you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation, either version 3 of the License, or
+ (at your option) any later version.
+ .
+ The codes are distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+ .
+ You should have received a copy of the GNU General Public License
+ along with these codes.  If not, see <http://www.gnu.org/licenses/>.
+
+Please confer the licence files for the usage of: 
+PROFOR scripts/codes (license_PROFOR);
+ndSparse function (license_ndSparse).
+
+Some of the functions used in these replication codes are written by 
+externals:
+
+The gamm_rnd function was written by:
+Michael Gordy, 15 Sept 1993
+mbgordy@athena.mit.edu
+
+The norm_rnd function was written by:
+James P. LeSage, Dept of Economics
+University of Toledo
+2801 W. Bancroft St,
+Toledo, OH 43606
+jlesage@spatial-econometrics.com
+
+The wish_rnd function was written by:
+Aki Vehtari
+Helsinki University of Technology 
+Lab. of Computational Engineering 
+P.O.Box 9400 
+FIN-02015 HUT 
+FINLAND
+Aki.Vehtari@hut.fi
+
+
+
+
+
+
+
+
